@@ -2,10 +2,6 @@
 
 I'm **Vijay**, a dedicated developer striving to optimize workflows, build high-performance applications, and master memory management to create exceptional software.
 
-
-![Visitor Badge](https://img.shields.io/github/watchers/vijayramanujam/vijayramanujam?style=flat-square)
-
-
 |                   |                                            |
 |-------------------|--------------------------------------------|
 | 🔭 **Exploring**   | **Linux**, **Web Development** and **Data Structures & Algorithms**|
